@@ -1,0 +1,53 @@
+body{
+margin: 0px;
+padding: 0px;
+}
+.offerbox {
+  display: flex;
+  background-color: chocolate;
+  font-size: xx-small;
+  align-items: center;
+  font-size: 8px;
+  gap: 50px;
+}
+
+.offerbox {
+  text-align: 500px;
+}
+.offerbox h1{
+  margin-left: 250px;
+}
+
+
+.offerbox button{
+  background-color: rgb(216, 213, 213);
+  border: none;
+align-items: end;
+}
+
+.navbar{
+display: flex;
+background-color: rgb(170, 164, 164);
+font-size: x-small;
+align-items: center;
+justify-content: space-between;
+gap: 0px 30px;
+}
+
+
+
+.navbar .navlist ul{
+display: flex;
+gap: 30px;
+list-style: none;
+font-size: x-large;
+color: rgb(1, 6, 11);
+margin-right: 30px;
+}
+
+
+
+.navlist li a{
+ text-decoration: none;
+ color: black;
+}
